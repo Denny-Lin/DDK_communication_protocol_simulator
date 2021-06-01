@@ -39,7 +39,7 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
 <br><br/>
 
 ## All the thinking is following bellow
-1. This project will be progressed someday.
+* This project will be progressed someday.
 <br><br/>
 
 ## References
