@@ -1,0 +1,11 @@
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\bin\Debug\netcoreapp2.1\Pipe_client.deps.json
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\bin\Debug\netcoreapp2.1\Pipe_client.runtimeconfig.json
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\bin\Debug\netcoreapp2.1\Pipe_client.runtimeconfig.dev.json
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\bin\Debug\netcoreapp2.1\Pipe_client.dll
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\bin\Debug\netcoreapp2.1\Pipe_client.pdb
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\obj\Debug\netcoreapp2.1\Pipe_client.csprojAssemblyReference.cache
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\obj\Debug\netcoreapp2.1\Pipe_client.csproj.CoreCompileInputs.cache
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\obj\Debug\netcoreapp2.1\Pipe_client.AssemblyInfoInputs.cache
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\obj\Debug\netcoreapp2.1\Pipe_client.AssemblyInfo.cs
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\obj\Debug\netcoreapp2.1\Pipe_client.dll
+C:\Users\Hungyu.lin\source\repos\Pipe_client\Pipe_client\obj\Debug\netcoreapp2.1\Pipe_client.pdb
