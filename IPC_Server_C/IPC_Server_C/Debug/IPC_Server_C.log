@@ -1,0 +1,2 @@
+﻿  IPC_Server_C.cpp
+LINK : fatal error LNK1104: 無法開啟檔案 'C:\Users\Hungyu.lin\source\repos\IPC_Server_C\Debug\IPC_Server_C.exe'
