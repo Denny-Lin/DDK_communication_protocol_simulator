@@ -38,6 +38,7 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
 11. Memory-mapped file
 <br><br/>
 
+### Pipe
 ![image](https://user-images.githubusercontent.com/67073582/122335449-e0830580-cf6d-11eb-82d1-d24c84095f44.png)
 
 
@@ -45,3 +46,4 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
 * <https://en.wikipedia.org/wiki/Inter-process_communication>
 * <https://pws.niu.edu.tw/~ttlee/os.101.1/night/sharedMemory/>
 * https://zhuanlan.zhihu.com/p/58489873
+* https://man7.org/linux/man-pages/man2/pipe.2.html
