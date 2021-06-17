@@ -42,6 +42,8 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
 ![image](https://user-images.githubusercontent.com/67073582/122335449-e0830580-cf6d-11eb-82d1-d24c84095f44.png)
 
 ```c
+       #include <unistd.h>
+       
        /* On Alpha, IA-64, MIPS, SuperH, and SPARC/SPARC64; see NOTES */
        struct fd_pair {
            long fd[2];
