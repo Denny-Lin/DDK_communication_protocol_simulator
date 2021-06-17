@@ -44,3 +44,4 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
 ## References
 * <https://en.wikipedia.org/wiki/Inter-process_communication>
 * <https://pws.niu.edu.tw/~ttlee/os.101.1/night/sharedMemory/>
+* https://zhuanlan.zhihu.com/p/58489873
