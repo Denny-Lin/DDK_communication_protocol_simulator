@@ -21,7 +21,7 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
 ## Techniques
 * IPC(Inter-Process Communication)
 * Share memory
-* Knowledge of windows.h
+* Knowledge of windows.h and unistd.h
 <br><br/>
 
 ## Methods
