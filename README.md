@@ -60,7 +60,7 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
        int pipe2(int pipefd[2], int flags);
 ```
 
-* I think the most important concept is we need a space(memory, ram, \*.txt) and use it in communicatoin between two tasks(processes).
+* I think the most important concept is we need a space(memory, ram, \*.txt) and use it in communicatoin between two processes(tasks, jobs).
 
 
 ## References
