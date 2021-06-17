@@ -41,6 +41,22 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
 ### Pipe
 ![image](https://user-images.githubusercontent.com/67073582/122335449-e0830580-cf6d-11eb-82d1-d24c84095f44.png)
 
+```c
+       /* On Alpha, IA-64, MIPS, SuperH, and SPARC/SPARC64; see NOTES */
+       struct fd_pair {
+           long fd[2];
+       };
+       struct fd_pair pipe();
+
+       /* On all other architectures */
+       int pipe(int pipefd[2]);
+
+       #define _GNU_SOURCE             /* See feature_test_macros(7) */
+       #include <fcntl.h>              /* Obtain O_* constant definitions */
+       #include <unistd.h>
+
+       int pipe2(int pipefd[2], int flags);
+```
 
 ## References
 * <https://en.wikipedia.org/wiki/Inter-process_communication>
