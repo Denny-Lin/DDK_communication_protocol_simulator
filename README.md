@@ -38,7 +38,7 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
 11. Memory-mapped file
 <br><br/>
 
-### Pipe
+### Anonymous pipe
 ![image](https://user-images.githubusercontent.com/67073582/122335449-e0830580-cf6d-11eb-82d1-d24c84095f44.png)
 
 ```c
@@ -59,6 +59,9 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
 
        int pipe2(int pipefd[2], int flags);
 ```
+
+* I think the most important concept is we need a space(memory, ram, \*.txt) and use it in communicatoin between two tasks(processes).
+
 
 ## References
 * <https://en.wikipedia.org/wiki/Inter-process_communication>
