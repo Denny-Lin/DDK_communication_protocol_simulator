@@ -59,11 +59,11 @@ Simulate UART, I2C, ... , SPI via IPC(Inter-Process Communication) technique.
 
        int pipe2(int pipefd[2], int flags);
 ```
-<br><br/>
+<br/>
 1. I think the most important concept is we need a space(memory, ram, \*.txt) and use it in communicatoin between two processes(tasks, jobs).
 <br><br/>
 2. Use pipe or any else in kernel space is faster than userspace, cuz the data will be copy from the buffer in kernelspace to the buffer, the code you've written, in userspace. 
-
+<br><br/>
 
 ## References
 * <https://en.wikipedia.org/wiki/Inter-process_communication>
